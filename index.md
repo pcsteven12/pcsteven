@@ -1,7 +1,11 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my blog. 
 
-![Image of fast.ai logo](images/logo.png)
+I am Steven, I am a EE Ph.d. student at National University of Kaohsiung in Taiwan 
 
-## This is a title
+Major in Meachine Learning  and Robotics!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Here is something I want to share or remember things
+
+Hope you find something works or inspire for you
+
+Having a good day
